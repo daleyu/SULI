@@ -1,5 +1,5 @@
-#SULI Project
-#Application of Natural Language Processing on Elogs
+# SULI Project
+# Application of Natural Language Processing on Elogs
 Dale Yu, Computer Science Technologies, Columbia University, Setauket, NY, 11733
 Mentor: Prerana Kankiya, Controls Team, Brookhaven National Laboratory, Upton, NY 11973
 
