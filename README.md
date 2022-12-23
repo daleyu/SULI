@@ -9,6 +9,8 @@ At the various particle accelerators like the Relativistic Heavy Ion Collider (R
 #### Why?:
 Machine learning technologies enable large data correlation and simplify complex computational tasks, so gaining more experience in this field is likely to provide efficient tools for conducting research at the collider accelerator department and various DOE projects. 
 
+Disclaimer: Some of this code is older than the finished project, as I forgot to save those files onto my local machine. 
+
 ## Content
 1. Data Collection
     * What is an E-Log
